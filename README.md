@@ -1,0 +1,1 @@
+This application provides a deep dive on the use of an Authentication Gateway for providing secured access to Microservices. It describes how the Gateway uses JSON Web Token(JWT) for authenticating clients that want to access web service endpoints hosted by different Microservices.
